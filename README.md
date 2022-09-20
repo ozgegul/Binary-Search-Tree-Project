@@ -7,7 +7,7 @@ Patika.dev - Data Structures and Algorithms - Binary Search Tree Project
 
 - First value "7" is root.
 
-- Next value "5" is smaller than 7, so it needs to be located on the left.
+- Next value "5" is smaller than 7, so it needs to be located on the left of "7".
 
                    
                           7 (root)
